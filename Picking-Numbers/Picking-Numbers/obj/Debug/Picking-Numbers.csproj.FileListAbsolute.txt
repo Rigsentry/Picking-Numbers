@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Picking-Numbers\Picking-Numbers\Picking-Numbers\bin\Debug\Picking-Numbers.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Picking-Numbers\Picking-Numbers\Picking-Numbers\bin\Debug\Picking-Numbers.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Picking-Numbers\Picking-Numbers\Picking-Numbers\bin\Debug\Picking-Numbers.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Picking-Numbers\Picking-Numbers\Picking-Numbers\obj\Debug\Picking-Numbers.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Picking-Numbers\Picking-Numbers\Picking-Numbers\obj\Debug\Picking-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Picking-Numbers\Picking-Numbers\Picking-Numbers\obj\Debug\Picking-Numbers.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Picking-Numbers\Picking-Numbers\Picking-Numbers\obj\Debug\Picking-Numbers.pdb
